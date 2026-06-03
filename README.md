@@ -6,4 +6,4 @@ Building stuff on Solana. Mostly shipping faster than I should.
 
 **Stack:** TypeScript · Next.js · Solana · Postgres
 
-📍 Israel · 🐦 [@OrangeSBS](https://x.com/OrangeSBS)
+📍 Israel
